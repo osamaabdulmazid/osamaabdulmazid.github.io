@@ -1,0 +1,3 @@
+Contact: mailto:osamaabdulalim49@gmail.com
+Preferred-Languages: en, bn
+Canonical: https://osamaabdulmazid.github.io/.well-known/security.txt
