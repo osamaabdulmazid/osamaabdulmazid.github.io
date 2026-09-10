@@ -1,0 +1,1 @@
+Replace index.html, styles.css, script.js, and profile.jpeg in your GitHub Pages repository. Keep your existing journal folder, CV, certificate/gallery images, sitemap.xml, and robots.txt. Do not delete existing assets. After commit, test the homepage and then request indexing in Google Search Console.
