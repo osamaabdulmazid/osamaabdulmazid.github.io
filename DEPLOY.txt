@@ -1,0 +1,25 @@
+AWWWARDS-INSPIRED 3D REDESIGN — DEPLOY NOTES
+
+Replace these existing files in the GitHub Pages repository:
+1. index.html
+2. styles.css
+3. script.js
+4. profile.jpeg (the supplied portrait)
+
+IMPORTANT: Keep your existing supporting assets in the repository, including:
+- journal/my-uopeople-journey-2021-2026.html
+- Osama_Abdul_Mazid_CV.pdf
+- all existing certificate/award JPG images used by the gallery
+
+The redesign uses CSS 3D transforms and vanilla JavaScript only. No external JS libraries were added.
+
+The updated index keeps:
+- title: Osama Abdul Mazid
+- canonical URL
+- ProfilePage + Person JSON-LD
+- birthDate
+- sameAs links
+- dateModified updated to 2026-09-10T00:00:00+06:00
+- existing education/career/journal/credentials/gallery/contact content
+
+New public presence cards were added for Medium and Blogger.
